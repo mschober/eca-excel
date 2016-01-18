@@ -1,4 +1,3 @@
--e git+git@github.com:mschober/eca-excel.git@b577bf70f621dc4fe0ba0a5cd17dcb9dd06ea6b1#egg=eca_excel_openpyxl-master
 et-xmlfile==1.0.1
 jdcal==1.2
 openpyxl==2.3.3
